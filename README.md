@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm currently an Honours Computer Science Co-op student at the University of Waterloo. 
+🎓 I'm currently an Honours Computer Science Co-op student at the University of Waterloo.
+
+
 😄 Always looking for new opportunities to learn and grow! 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)
