@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+📈
 - 🎓 I'm currently an Honours Computer Science Co-op student at the University of Waterloo
 - 🏢 Seeking summer 2021 internships/co-op
 - 😄 Always looking for new opportunities to learn and grow! 
