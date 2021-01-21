@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🏢 Seeking summer 2021 internships/co-op
 - 😄 Always looking for new opportunities to learn and grow! 
 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)-->
+[![](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)
