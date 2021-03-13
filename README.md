@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I'm currently an Honours Computer Science Co-op student at the University of Waterloo
-- 🏢 Seeking summer 2021 internships/co-op
 - 🧠 Highly interested in Data Engineering, Data Science, Full Stack Web Development, and General Software Engineering
 - 😄 Always looking for new opportunities to learn and grow!
 
