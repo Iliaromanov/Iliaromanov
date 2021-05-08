@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - <!--🎓--> I'm currently an Honours Computer Science Co-op student at the University of Waterloo
 - <!--🧠--> Highly interested in Data Science, Data Engineering, Full Stack Development, and General Software Engineering
-- <!--😄--> Always looking for new opportunities to learn and grow!
+<!--- 😄 Always looking for new opportunities to learn and grow!-->
 
 <!--[![](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov" />-->
