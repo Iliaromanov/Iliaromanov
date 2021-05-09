@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- <!--🎓--> I'm currently an Honours Computer Science Co-op student at the University of Waterloo
+- <!--🎓--> Computer Science, Honours, Co-op student at the University of Waterloo
 - <!--🧠--> Highly interested in Data Science, Full Stack Development, and General Software Engineering
 <!--- 😄 Always looking for new opportunities to learn and grow!-->
 
