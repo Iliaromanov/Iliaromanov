@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - <!--🧠--> Highly interested in Data Science/Machine Learning, Backend Development, and General Software Engineering
 <!--- 😄 Always looking for new opportunities to learn and grow!-->
 
-<!--[![](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+[![](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov" />-->
