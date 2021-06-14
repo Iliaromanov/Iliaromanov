@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - <!--🎓--> Computer Science, Honours, Co-op student at the University of Waterloo
-- <!--🧠--> Highly interested in Data Science/Machine Learning, Backend Development, and General Software Engineering
+- <!--🧠--> Highly interested in Backend Development, Data Science/Machine Learning, and General Software Engineering
 <!--- 😄 Always looking for new opportunities to learn and grow!-->
 
 
