@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- <!--🎓--> Computer Science, Honours, Co-op student at the University of Waterloo
+- <!--🎓--> Computer Science student at the University of Waterloo
 - <!--🧠--> Highly interested in Backend Development, Data Science/Machine Learning, and General Software Engineering
 <!--- 😄 Always looking for new opportunities to learn and grow!-->
 
