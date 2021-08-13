@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - <!--🎓--> Computer Science student at the University of Waterloo
 - <!--🧠--> Highly interested in Backend Development, Data Science/Machine Learning, and General Software Engineering
-- <!--😄--> Looking for co-op opportunities for the Winter and Fall 2022 terms
+- <!--😄--> Looking for co-op opportunities for Winter 2022
 
 <!--
 <h3 align="left">Tech Stack:</h3>
