@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Computer Science student at the University of Waterloo
-- 💼 Interested in backend development, machine learning, and general software engineering
-- 🏢 Looking for Fall 2022 co-op/internship opportunities
+- 🎓 Computer Science student at the University of Waterloo.
+- 💼 Interested in backend development, machine learning, and general software engineering.
+- 🏢 Looking for Fall 2022 co-op/internship opportunities.
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
 
 <!--
