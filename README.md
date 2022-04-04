@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <!-- READY TO GO, JUST CODE MORE IN GO TO MAKE IT LOOK BETTER -->
-<!-- [![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov&hide=jupyter notebook,html&layout=compact&custom_title=Top Languages by lines of code>)](https://github.com/reteps?tab=repositories) -->
+[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov&hide=jupyter notebook,html&layout=compact&custom_title=Top Languages by lines of code>)](https://github.com/reteps?tab=repositories)
 
 
 
@@ -37,11 +37,14 @@ Here are some ideas to get you started:
 -->
 
 
-<!--Profile views
+<!-- Profile views
 ![](https://komarev.com/ghpvc/?username=Iliaromanov)
 
 https://github.com/CITIZENDOT/CITIZENDOT/tree/master/profile-summary-card-output
-<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"> <img src="./profile-summary-card-output/nord_dark/3-stats.svg">-->
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"> <img src="./profile-summary-card-output/nord_dark/3-stats.svg"> -->
 
 <!--[![](https://github-readme-stats.vercel.app/api?username=Iliaromanov)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov" />-->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iliaromanov&" alt="oscarmild" /></p>
+ -->
