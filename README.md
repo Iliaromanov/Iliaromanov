@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Computer Science student at the University of Waterloo.
-- 💼 Interested in backend development, machine learning, and general software engineering.
+- 💼 Interested in backend engineering, machine learning, and general software engineering.
 - 🏢 Looking for Summer 2023 co-op/internship opportunities.
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
 
