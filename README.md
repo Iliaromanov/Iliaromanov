@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Computer Science student at the University of Waterloo.
+- 🎓 Third Year Computer Science student at the University of Waterloo.
 - 👨‍💻 Interested in backend engineering, machine learning, and general software development.
 - 🏢 Looking for Summer 2023 co-op/internship opportunities.
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
