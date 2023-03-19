@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <!-- READY TO GO, JUST CODE MORE IN GO TO MAKE IT LOOK BETTER -->
-[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov&hide=jupyter notebook,html&layout=compact&custom_title=Top Languages by lines of code>)](https://github.com/reteps?tab=repositories)
+[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=Iliaromanov&hide=jupyter notebook,html&layout=compact&custom_title=Top Langs by Lines of Code>)](https://github.com/reteps?tab=repositories)
 
 
 
