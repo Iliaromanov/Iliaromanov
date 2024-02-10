@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Third year Computer Science student at the University of Waterloo.
-- 👨‍💻 Interested in backend, cloud, and machine learning engineering.
-- 🏢 Looking for Summer 2024 internship opportunities.
+- 👨‍💻 Interested in backend, computer networking, and algorithmic trading.
+- 🏢 Looking for Winter 2025 internship and/or Summer 2025 new grad Software Engineering related opportunities.
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
 
 <!--
