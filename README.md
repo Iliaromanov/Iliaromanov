@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Fourth year Computer Science student at the University of Waterloo.
-- 👨‍💻 Interested in backend, computer networking, and algorithmic trading.
-- 🏢 Looking for Winter/Summer 2025 internship or 2025 new grad Software Engineering related opportunities.
+- 👨‍💻 Interested in backend systems, cloud computing, and algorithmic trading.
+<!-- - 🏢 Looking for Winter/Summer 2025 internship or 2025 new grad Software Engineering related opportunities. -->
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
 
 <!--
