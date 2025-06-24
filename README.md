@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Fourth year Computer Science student at the University of Waterloo.
+- 🎓 University of Waterloo Computer Science Class of 2025.
 - 👨‍💻 Interested in backend systems, cloud computing, and algorithmic trading.
 <!-- - 🏢 Looking for Winter/Summer 2025 internship or 2025 new grad Software Engineering related opportunities. -->
 <!-- - 😄 Looking for co-op opportunities for Winter 2022 -->
